@@ -6,7 +6,7 @@ categories: vrview
 image_url: after_arrival.jpg
 is_image_360: true
 default_yaw: 0
-thumbnail: after_arrval_th.jpg
+thumbnail: after_arrival_th.jpg
 youtube_id: 6Sg4l9UvhmE
 description: Surveying the situation after arrival
 ---
