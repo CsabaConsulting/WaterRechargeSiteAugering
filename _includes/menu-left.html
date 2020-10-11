@@ -3,7 +3,7 @@
     <nav class="mdl-navigation">
         <a class="mdl-navigation__link" href="{{ site.baseurl }}/">Home</a>
         <a class="mdl-navigation__link" href="{{ site.fresnostategeology }}">Fresno State Geology</a>
-        {% for post in site.posts %}
+        {% for post in site.posts reversed %}
         {% if post.title %}
         <a class="mdl-navigation__link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         {% endif %}

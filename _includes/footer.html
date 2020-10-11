@@ -10,7 +10,7 @@
             <li>
               <a href="{{ site.fresnostategeology }}">Fresno State Geology</a>
             </li>
-            {% for post in site.posts %}
+            {% for post in site.posts reversed %}
             {% if post.title %}
             <li>
                 <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
