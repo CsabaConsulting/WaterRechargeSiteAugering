@@ -3,10 +3,10 @@ layout: post
 title: Trench digging
 date: 2020-10-10 9:32:00
 categories: vrview
-image_url: thrench_digging.jpg
+image_url: trench_digging.jpg
 is_image_360: true
 default_yaw: 0
-thumbnail: thrench_digging_th.jpg
+thumbnail: trench_digging_th.jpg
 youtube_id: YYWdkLQ-8zo
 description: The trench digging is in progress
 ---

@@ -10,4 +10,4 @@ thumbnail: third_auger_kit_th.jpg
 youtube_id: b7zcnRZWpNk
 description: We borrowed a third auger kit which matched one of our and Luke's auger kit's threading.
 ---
-With the third auger kit we could auger deeper, while at the same time we could keep the OSL smpling hammering auger setup ready as well.
+With the third auger kit we could auger deeper, while at the same time we could keep the OSL sampling hammering auger setup ready as well.

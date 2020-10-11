@@ -10,4 +10,4 @@ thumbnail: wrapping_up_th.jpg
 youtube_id: num8IMKAhuQ
 description: We wrapped up after reaching 11 feet and a last OSL sample
 ---
-We wrapped up after reaching 11 feet and a last OSL sample. The thrench digger crew had a late lunch break.
+We wrapped up after reaching 11 feet and a last OSL sample. The trench digger crew had a late lunch break.

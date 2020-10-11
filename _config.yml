@@ -1,7 +1,7 @@
 # Site settings
 title: Fresno State geology students auger at a site designated for water recharge experiments
 email: csaba.toth.us@gmail.com
-description: Dr Beth Wienman, Ben Andersen, several students of the department and Csaba Toth were augering at a water recharge experimental site. The recharge pipes were laid down with thrench digging technique on the same day,
+description: Dr Beth Weinman, Ben Andersen, several students of the department and Csaba Toth were augering at a water recharge experimental site. The recharge pipes were laid down with trench digging technique on the same day,
 baseurl: "/WaterRechargeSiteAugering" # the subpath of your site, e.g. /blog/
 url: "https://csabaconsulting.github.io" # the base hostname & protocol for your site
 copyright: '&copy; 2020 Csaba Toth'
