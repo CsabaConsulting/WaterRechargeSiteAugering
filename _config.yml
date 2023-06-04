@@ -15,6 +15,5 @@ markdown: kramdown
 # Custom theme could be generated at: https://getmdl.io/customize/index.html
 material_theme: red-green
 
-# Google Analytics account ID (UA-XXXXXXXX-X)
-
-google-analytics-ua: UA-86563829-8
+# Google Analytics ID
+google-analytics-ga4: G-RN5STB3GY8
